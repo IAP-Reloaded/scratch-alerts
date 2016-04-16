@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Scratch Alerts++
 // @namespace    http://simpcraft.com/
-// @version      0.4
+// @version      0.5
 // @description  better alert messages for Scratch
 // @author       @IAP-Reloaded
 // @match        *://scratch.mit.edu/*
@@ -42,4 +42,4 @@ Scratch.ALERT_MSGS = {
 };
 
 
-$("p").append("<br><p>Running <a href=\"http://github.com/Usernamer/scratchalerts-/\">Scratch Alerts++</a></p>");
+$("p").append("<p>Running <a href=\"http://github.com/Usernamer/scratchalerts-/\">Scratch Alerts++</a></p>");
