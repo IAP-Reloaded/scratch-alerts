@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Scratch Alerts++
 // @namespace    http://simpcraft.com/
-// @version      0.5
+// @version      0.6
 // @description  better alert messages for Scratch
 // @author       @IAP-Reloaded
 // @match        *://scratch.mit.edu/*
