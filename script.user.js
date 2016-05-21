@@ -9,12 +9,12 @@
 // ==/UserScript==
 
 Scratch.ALERT_MSGS = {
-  'error': 'Oops! Something went wrong',
+  'error': 'We don't know what, but something went wrong.,
   'inappropriate-generic': 'Hmm...the bad word detector thinks there is a problem with your text. Please change it and remember to <a target="_blank" href="/community_guidelines/">be respectful</a>.',
-  'image-invalid': 'Upload a valid image. The file you uploaded was either not an image or a corrupted image.',
+  'image-invalid': 'This image is not a .png or .gif, or it was corrupted.',
   'thumbnail-missing': 'Missing file',
   'thumbnail-upload-bad': 'Bad upload',
-  'thumbnail-too-large': 'Maximum file size is 1 MB.',
+  'thumbnail-too-large': 'This file is too large. The maximum is 1 MB.',
 
   'inappropriate-comment': 'Hmm...the bad word detector thinks there is a problem with your comment. Please change it and remember to <a target="_blank" href="/community_guidelines/">be respectful</a>.',
   'comment-has-chat-site': 'Uh oh! This comment contains a link to a website with unmoderated chat. For safety reasons, please do not link to these sites!',
