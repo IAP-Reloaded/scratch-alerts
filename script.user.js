@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 Scratch.ALERT_MSGS = {
-  'error': 'We don't know what, but something went wrong.,
+  'error': 'We don't know what, but something went wrong.',
   'inappropriate-generic': 'Hmm...the bad word detector thinks there is a problem with your text. Please change it and remember to <a target="_blank" href="/community_guidelines/">be respectful</a>.',
   'image-invalid': 'This image is not a .png or .gif, or it was corrupted.',
   'thumbnail-missing': 'Missing file',
